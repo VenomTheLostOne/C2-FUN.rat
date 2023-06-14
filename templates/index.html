@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Button Functions</title>
+</head>
+<body>
+  <h1>Button Functions</h1>
+
+  <button onclick="redirectToLink('WebFlood')">Web Crash</button>
+  <button onclick="redirectToLink('cdCARDIO')">CD Cardio</button>
+  <button onclick="redirectToLink('duck')">Funny Sounds</button>
+  <button onclick="redirectToLink('explorer')">Explorer Crash</button>
+  <button onclick="redirectToLink('mouse')">Hide Mouse</button>
+  <button onclick="redirectToLink('power')">Hide Start Button</button>
+  <button onclick="redirectToLink('taskbar')">Hide Taskbar</button>
+  <button onclick="redirectToLink('taskmanager')">Open Task Manager</button>
+  <button onclick="redirectToLink('toggle')">Toggle Monitor</button>
+  <button onclick="redirectToLink('wallpaper')">Set Black Wallpaper</button>
+  <button onclick="redirectToLink('volume')">Set Volume to 1%</button>
+
+  <script>
+    function redirectToLink(url) {
+      window.location.href = url;
+    }
+  </script>
+</body>
+</html>
