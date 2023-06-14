@@ -36,3 +36,5 @@ After setting up the main file on the victim's computer, it is important to run 
 Once the program is running on the victim's computer, you can access its dashboard from any device connected to the same network. Whether it's another computer or a mobile device, ensure it is connected to the shared network. Open a web browser on your device and enter the IP address of the victim's computer, followed by ":5000," in the address bar. For instance, if the victim's computer has the IP address 192.168.1.100, you would enter "192.168.1.100:5000" in the browser's address bar.
 
 Press Enter or click Go, and the program's dashboard should appear on your device. From there, you can interact with the program's features and functionality. It is important to note that accessing someone's computer without proper authorization and running programs as an administrator can be considered unethical and potentially illegal. Always ensure you have appropriate consent and adhere to applicable laws and regulations.
+
+![enter image description here](https://s12.gifyu.com/images/SQSA0.gif)
