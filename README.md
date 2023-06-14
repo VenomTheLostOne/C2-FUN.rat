@@ -37,4 +37,4 @@ Once the program is running on the victim's computer, you can access its dashboa
 
 Press Enter or click Go, and the program's dashboard should appear on your device. From there, you can interact with the program's features and functionality. It is important to note that accessing someone's computer without proper authorization and running programs as an administrator can be considered unethical and potentially illegal. Always ensure you have appropriate consent and adhere to applicable laws and regulations.
 
-![enter image description here](https://s11.gifyu.com/images/SQS05.gif)
+![enter image description here](https://s12.gifyu.com/images/SQSA0.gif)
